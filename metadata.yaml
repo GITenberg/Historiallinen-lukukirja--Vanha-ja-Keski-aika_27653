@@ -1,0 +1,55 @@
+_repo: Historiallinen-lukukirja--Vanha-ja-Keski-aika_27653
+_version: 0.1.0
+alternative_title: Historisk läsebok för skolan och hemmet. Finnish
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sjögren, Otto
+    aliases:
+    - Sjogren, Otto
+    - Sjögren, Karl August Otto
+    birthdate: 1844
+    deathdate: 1917
+    gutenberg_agent_id: '32822'
+    url: http://www.gutenberg.org/2009/agents/32822
+    wikipedia: http://sv.wikipedia.org/wiki/Otto_Sj%C3%B6gren
+  editor:
+    agent_name: Bergholm, Axel
+    alias: Bergholm, Karl Axel
+    birthdate: 1841
+    deathdate: 1924
+    gutenberg_agent_id: '32823'
+    url: http://www.gutenberg.org/2009/agents/32823
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27653'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers -- History'
+- !lcc 'D'
+tableOfContents: Esipuhe -- Johdatus -- Vanha aika -- Itämaiset kansat -- Egyptiläiset
+  -- Assyrialaiset ja babylonialaiset -- Foinikialaiset -- Persian valtakunta -- Muinaisklassilliset
+  kansat -- Helleniläiset eli kreikkalaiset -- Makedonialainen helleniläisyys -- Roomalaiset
+  -- Germanialaiset -- Kristinusko ja kristillinen kirkko -- Keskiaika -- Keskiajan
+  luonne -- Kansainvaellukset -- Länsimaat ennen ristiretkiä -- Ristiretkien aikakausi
+  -- Keskiajan loppu.
+title: 'Historiallinen lukukirja: Vanha ja Keski-aika'
+url: http://www.gutenberg.org/ebooks/27653
